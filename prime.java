@@ -15,8 +15,10 @@ public class Prime {
         }
 
         if (!flag)
+
             System.out.println(num + " is a PN.");
         else
             System.out.println(num + " is not PN.");
+
     }
 }
